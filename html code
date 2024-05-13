@@ -13,7 +13,7 @@
             <section class="top-header">
                 <div class="interface">
                     <div class="logotipo">
-                        <a href="http://127.0.0.1:5500/html-css/index-ht.html#"> <!--link temporário. A ideia é voltar pra tela inicial-->
+                        <a href="http://127.0.0.1:5500/html-css/index-ht.html#"> 
                             <img src="logo.png">
                         </a>
                     </div>
